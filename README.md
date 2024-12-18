@@ -41,4 +41,4 @@ The following architecture diagram illustrates the flow of data across different
 - Organized and tiered storage structure in Azure Data Lake Storage.
 
 ## Source Data
-- The raw data for this project is sourced from Kaggle, access the dataset here: [AdventureWorks](https://www.kaggle.com/datasets/ukveteran/adventure-works)
+The raw data for this project is sourced from Kaggle, access the dataset here: [AdventureWorks](https://www.kaggle.com/datasets/ukveteran/adventure-works)
